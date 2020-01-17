@@ -1,3 +1,1 @@
-# formation-git-tp
-tp de formation git
-modification
+Repository utilisé pour les TPs de la formation git.
